@@ -17,3 +17,15 @@ print(remove_password(url))
 ```bash
 uv run python -m scripts.demo
 ```
+
+## Installation
+
+**uv**
+```bash
+uv add git+https://github.com/christianknoblauch/urli
+```
+
+**pip**
+```bash
+pip install git+https://github.com/christianknoblauch/urli
+```
