@@ -22,10 +22,10 @@ uv run python -m scripts.demo
 
 **uv**
 ```bash
-uv add git+https://github.com/christianknoblauch/urli
+uv add git+https://github.com/kiksen/urli
 ```
 
 **pip**
 ```bash
-pip install git+https://github.com/christianknoblauch/urli
+pip install git+https://github.com/kiksen/urli
 ```
